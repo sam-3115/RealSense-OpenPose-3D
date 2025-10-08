@@ -47,3 +47,38 @@ Each example folder contains:
 - OpenPose JSON results  
 - 3D skeleton animation  
 - Limb distance graphs  
+
+
+---
+
+## 🛠️ Tech Stack  
+| Category | Tools / Libraries |
+|-----------|------------------|
+| Hardware | Intel RealSense D435 Depth Camera |
+| Languages | Python, C++ |
+| Libraries | OpenPose, pyrealsense2, Plotly, Matplotlib, NumPy |
+| Tools | RealSense SDK, ROS, OpenPose Demo |
+| OS | Windows 11 |
+
+---
+
+## 🧑‍🔬 Internship Details  
+**Institute:** IIT (BHU), Varanasi  
+**Department:** School of Biomedical Engineering  
+**Role:** Research Intern  
+**Duration:** 12 May – 25 June 2025  
+**Affiliation:** NIT Warangal (Biotechnology, 2nd Year)
+
+---
+
+## 🌟 Future Scope  
+- Integration of live OpenPose feed for **real-time 3D skeleton visualization**.  
+- Implementing **gesture tracking and movement classification**.
+
+---
+
+## 📬 Contact  
+If you found this useful or have questions, feel free to connect!  
+
+🔗 **GitHub:** [https://github.com/<sam-3115>](https://github.com/<sam-3115>)  
+📧 **Email:** samarthghogare@gmail.com
