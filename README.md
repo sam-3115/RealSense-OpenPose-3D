@@ -79,6 +79,4 @@ Each example folder contains:
 
 ## 📬 Contact  
 If you found this useful or have questions, feel free to connect!  
-
-🔗 **GitHub:** [https://github.com/<sam-3115>](https://github.com/<sam-3115>)  
 📧 **Email:** samarthghogare@gmail.com
