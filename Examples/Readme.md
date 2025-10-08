@@ -1,1 +1,1 @@
-#🧩 Example Outputs
+# 🧩 Example Outputs
