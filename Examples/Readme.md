@@ -1,4 +1,4 @@
 # 🧩 Example Outputs
 ![Keypoints Visualization](Keypoints.png)
 
-[View 3D Skeleton Plot](https://username.github.io/repo-name/3d_skeleton_with_distances_plot.html)
+[View 3D Skeleton Plot](https://github.com/sam-3115/RealSense-OpenPose-3D/blob/main/Examples/3d_skeleton_with_distances_plot.html)
