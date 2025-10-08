@@ -1,2 +1,2 @@
 # 🧩 Example Outputs
-![Keypoints Visualization](keypoints.png)
+![Keypoints Visualization](Keypoints.png)
